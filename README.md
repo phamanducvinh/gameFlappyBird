@@ -36,7 +36,7 @@
 <p align="center">==========================================================</p>
 
 * Thông tin liên lạc:
-* Với folder image đồ họa được hỗ trợ bởi: Anh Đức Lê(K65 UET - github: https://github.com/DuCLeK65t?fbclid=IwAR3eZFK4l7ZtJS0XFqpj_U6BiGBTiT5lVavs7jGGFz_iHJNozOM7sEvCwZU)
+* Với folder image đồ họa được hỗ trợ bởi: Anh Đức Lê(K65 UET - github.com/DuCLeK65t)
 * Thuật toán và luồng chạy chương trình by me (fb: https://www.facebook.com/phamanducvinhuet/)
 * Ngoài ra bạn có thể tham khảo một số nguồn như (youtube: https://www.youtube.com/channel/UC2Ab_b49frkmgFJajOvtkpw/videos)
 
