@@ -1,6 +1,8 @@
 * Project game(C/C++): Flappy Bird
 * Đây là một dự án nhỏ đầu tay được viết bởi ngôn ngữ C/C++,sử dụng thư viện đồ họa SDL2.0 để dựng lại một tựa game đã cũ có tên gọi là Flappy Bird
+* 
 <p align="center">==========================================================</p>
+
 * Một vài hình ảnh về bản dựng:
 * Start:
 <p align="center"> 
@@ -23,6 +25,7 @@
 </p>
 
 <p align="center">==========================================================</p>
+
 * Cách cài gồm các bước sau:
 + B1: Clone project từ github về desktop
 + B2: Install 3 thư viện SDL2.0,SDL_mixer,SDL_image 
@@ -31,6 +34,7 @@
 + B5: Sau khi dã build thành công bạn chạy trên CodeBlock ấn F9 để chạy chương trình
  
 <p align="center">==========================================================</p>
+
 * Thông tin liên lạc:
 * Với folder image đồ họa được hỗ trợ bởi: Anh Đức Lê(K65 UET - github: https://github.com/DuCLeK65t?fbclid=IwAR3eZFK4l7ZtJS0XFqpj_U6BiGBTiT5lVavs7jGGFz_iHJNozOM7sEvCwZU)
 * Thuật toán và luồng chạy chương trình by me (fb: https://www.facebook.com/phamanducvinhuet/)
