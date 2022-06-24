@@ -1,6 +1,6 @@
 * Project game(C/C++): Flappy Bird
 * Đây là một dự án nhỏ đầu tay được viết bởi ngôn ngữ C/C++,sử dụng thư viện đồ họa SDL2.0 để dựng lại một tựa game đã cũ có tên gọi là Flappy Bird
-* 
+
 <p align="center">==========================================================</p>
 
 * Một vài hình ảnh về bản dựng:
